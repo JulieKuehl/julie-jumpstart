@@ -9,7 +9,7 @@ Author URI: http://juliekuehl.com
 License: GPLv2
 */
 
-// add a new logo to the login page
+// add a new logo to the login page and add some styling
 function jumpstart_login_logo() { ?>
 <style type="text/css">
     .login #login h1 a {
