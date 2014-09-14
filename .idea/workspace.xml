@@ -35,9 +35,9 @@
       <file leaf-file-name="custom-login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/jumpstart-login/custom-login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.22022839" vertical-offset="0" max-vertical-offset="613">
+            <state line="28" column="28" selection-start="753" selection-end="753" vertical-scroll-proportion="0.685155" vertical-offset="0" max-vertical-offset="675">
               <folding>
-                <element signature="e#6#230#0" expanded="true" />
+                <element signature="e#6#229#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -334,9 +334,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/jumpstart-login/custom-login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.22022839" vertical-offset="0" max-vertical-offset="613">
+        <state line="28" column="28" selection-start="753" selection-end="753" vertical-scroll-proportion="0.685155" vertical-offset="0" max-vertical-offset="675">
           <folding>
-            <element signature="e#6#230#0" expanded="true" />
+            <element signature="e#6#229#0" expanded="true" />
           </folding>
         </state>
       </provider>
