@@ -33,10 +33,12 @@
         </entry>
       </file>
       <file leaf-file-name="custom-login.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-login/custom-login.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/jumpstart-login/custom-login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.24469821" vertical-offset="0" max-vertical-offset="613">
-              <folding />
+            <state line="9" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.22022839" vertical-offset="0" max-vertical-offset="613">
+              <folding>
+                <element signature="e#6#230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/jumpstart-stretch/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/custom-login/custom-login.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/jumpstart-login/custom-login.php" />
       </list>
     </option>
   </component>
@@ -203,7 +206,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="custom-login" />
+              <option name="myItemId" value="jumpstart-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.juliejumpstart.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.juliejumpstart.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jumpstart-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,6 +246,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/plugins/custom-login/media" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -298,10 +332,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/custom-login/custom-login.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/jumpstart-login/custom-login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.24469821" vertical-offset="0" max-vertical-offset="613">
-          <folding />
+        <state line="9" column="2" selection-start="230" selection-end="230" vertical-scroll-proportion="0.22022839" vertical-offset="0" max-vertical-offset="613">
+          <folding>
+            <element signature="e#6#230#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
